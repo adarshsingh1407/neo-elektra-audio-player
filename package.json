@@ -1,0 +1,21 @@
+{
+  "name": "neo-elektra-audio-player",
+  "version": "1.0.0",
+  "description": "Cross Platform Audio Player",
+  "main": "index.js",
+  "scripts": {
+    "start": "electon .",
+    "test": "npm run test"
+  },
+  "keywords": [
+    "electron",
+    "cross-platform",
+    "nodejs",
+    "audio-player"
+  ],
+  "author": "adarshsingh1407",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^8.2.1"
+  }
+}
